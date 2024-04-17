@@ -7,26 +7,26 @@ assignees: ''
 
 ---
 
-## Beschreibung des Bugs
+### Beschreibung des Bugs
 Kurze und klare Beschreibung des Bugs.
 
-## Zum Reproduzieren
+### Zum Reproduzieren
 Schritte zum Reproduzieren des Verhaltens:
 1. Gehe zu '...'
 2. Klicke auf '....'
 3. Scrolle nach '....'
 4. Siehe Fehler
 
-## Erwartetes Verhalten
+### Erwartetes Verhalten
 Eine klare und präzise Beschreibung dessen, was du erwartet hast.
 
-## Screenshots
+### Screenshots
 Wenn möglich, füge Screenshots hinzu, um das Problem zu erklären.
 
-## Umgebung (bitte die entsprechende Information vervollständigen)
+### Umgebung (bitte die entsprechende Information vervollständigen)
  - Betriebssystem: [z.B. iOS]
  - Browser [z.B. chrome, safari]
  - Version [z.B. 22]
 
-## Zusätzliche Informationen
+### Zusätzliche Informationen
 Füge hier weitere Informationen zum Problem hinzu.
